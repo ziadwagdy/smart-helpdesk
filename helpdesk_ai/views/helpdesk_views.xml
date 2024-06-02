@@ -10,7 +10,7 @@
                     <field name="ai_response"/>
                 </xpath>
                 <field name="email_cc" position="after">
-                    <button name="fine_tune" type="object" string="Fine-Tune" class="oe_highlight" groups="base.group_system"/>
+                    <button name="fine_tune" type="object" string="Extract Tickets" class="oe_highlight" groups="base.group_system"/>
                 </field>
             </field>
         </record>
